@@ -1,0 +1,12 @@
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {polish}{}
+\babel@toc {english}{}
+\contentsline {chapter}{Introduction}{11}{chapter*.2}%
+\contentsline {chapter}{\numberline {1}Example chapter}{12}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Example section}{12}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Example subsection}{12}{subsection.1.1.1}%
+\contentsline {section}{\numberline {1.2}Floats -- tables and figures}{13}{section.1.2}%
+\contentsline {chapter}{\numberline {2}The next chapter}{15}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Matrices}{15}{section.2.1}%
+\contentsfinish 

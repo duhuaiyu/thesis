@@ -1,0 +1,15 @@
+\BOOKMARK [0][-]{chapter*.2}{Introduction}{}% 1
+\BOOKMARK [0][-]{chapter.1}{Game Introduction}{}% 2
+\BOOKMARK [1][-]{section.1.1}{Command System}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.2}{Combo System}{chapter.1}% 4
+\BOOKMARK [0][-]{chapter.2}{Environment Setup for KOF97}{}% 5
+\BOOKMARK [1][-]{section.2.1}{Interact With Arched Emulator}{chapter.2}% 6
+\BOOKMARK [1][-]{section.2.2}{Action Space}{chapter.2}% 7
+\BOOKMARK [2][-]{subsection.2.2.1}{\200}{section.2.2}% 8
+\BOOKMARK [1][-]{section.2.3}{Observation Space}{chapter.2}% 9
+\BOOKMARK [1][-]{section.2.4}{Reward System}{chapter.2}% 10
+\BOOKMARK [0][-]{chapter.3}{Proposed network structure}{}% 11
+\BOOKMARK [0][-]{chapter.4}{Experiment}{}% 12
+\BOOKMARK [1][-]{section.4.1}{LSTM Model}{chapter.4}% 13
+\BOOKMARK [1][-]{section.4.2}{Stacked features + CNN Model}{chapter.4}% 14
+\BOOKMARK [0][-]{chapter.5}{Conclusion}{}% 15
